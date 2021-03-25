@@ -8,6 +8,6 @@ public class SimpleController {
 
     @RequestMapping("/")
     public String indes(){
-        return "Hello";
+        return "Hello world";
     }
 }
